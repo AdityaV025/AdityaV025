@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-verma-66b7a913b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aditya.verma7708@gmail.com)
 
-###Something about me:
+### Something about me:
 
  - 💻 I am currently working on various open source projects.
  - 🌱 I am currently learning [Flutter](https://flutter.dev/).
